@@ -7,6 +7,4 @@ This version currently includes only the undergraduate data. Graduate data will 
 
 At this stage, the Gemini embedding function successfully converts text into vectors and stores the vector data in ChromaDB. After testing several queries, the database returned reasonable chunks, and the LLM (Gemini) provided appropriate responses.
 
-However, I am still working on resolving an issue with Gradio as I integrate the code into a user-friendly interface.
-
 📌[Colab](https://colab.research.google.com/drive/1W9JJTyGeXUEjs19qYFUHFvr2aEhk3oJi?usp=sharing)
